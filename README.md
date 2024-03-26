@@ -97,7 +97,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="AC584-Quarto-Assignment_files/figure-html/unnamed-chunk-10-1.png" class="img-fluid figure-img" width="672"></p>
+project/AC584-Quarto-Assignment_files/figure-html/plot-map-1.png
 </figure>
 </div>
 </div>
